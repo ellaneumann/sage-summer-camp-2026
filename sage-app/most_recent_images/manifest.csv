@@ -1,0 +1,9 @@
+filename,node,location,date_utc,time_utc,reporting,image_url
+W01B_Emiquon-IL_2026-07-21_16-00-45_yes.jpg,W01B,"Emiquon Nature Preserve, IL",2026-07-21,16:00:45,yes,https://storage.sagecontinuum.org/api/v1/data/imagesampler-hanwhaptz-2860/sage-imagesampler-hanwhaptz-0.3.7/000048b02d15bc6d/1784649645596965226-sample.jpg
+W020_Emiquon-IL_none_none_no.jpg,W020,"Emiquon Nature Preserve, IL",,,no,
+W026_LakeDearborn-Chicago-IL_2026-07-20_13-00-11_yes.jpg,W026,"Lake & N. Dearborn, Chicago, IL",2026-07-20,13:00:11,yes,https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-11/sage-imagesampler-bottom-0.3.5/000048b02d05a1c7/1784552411233974565-bottom_camera.jpg
+W06F_Lakeview-MT_2026-07-21_16-01-41_yes.jpg,W06F,"Lakeview, MT",2026-07-21,16:01:41,yes,https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-2704/sage-imagesampler-top-0.3.7/000048b02d3ae2f2/1784649701999834727-sample.jpg
+W084_Lakeview-MT_2026-07-19_18-23-07_yes.jpg,W084,"Lakeview, MT",2026-07-19,18:23:07,yes,https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-2701/sage-imagesampler-top-0.3.7/000048b02d3ae2f4/1784485387040689247-sample.jpg
+W09E_LakeShoreDr-Chicago-IL_2026-07-21_16-00-06_yes.jpg,W09E,"1200 S Lake Shore Dr, Chicago, IL",2026-07-21,16:00:06,yes,https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-1731/sage-imagesampler-top-0.3.5/000048b02dd3c454/1784649606774192049-top_camera.jpg
+W0C3_BlockIsland-RI_none_none_no.jpg,W0C3,"Block Island (New Shoreham), RI",,,no,
+W06B_Plockton-UK_none_none_no.jpg,W06B,"Plockton, UK",,,no,

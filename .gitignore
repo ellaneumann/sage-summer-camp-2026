@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+sage-app/test-run/
+sage-app/snapshot.jpg
